@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthik13691
-- 👀 I’m interested in Analytics
-- 🌱 I’m currently learning Data Science & Machine Learning
+- 👀 I’m a Criminal Data Analyst
+- 🌱 I’m currently practising Data Science & Machine Learning modeling
 - 📫 How to reach me karthikpselvam13@gmail.com
 - 📉 www.linkedin.com/in/karthikpselvam
 
