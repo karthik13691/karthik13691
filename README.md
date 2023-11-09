@@ -6,8 +6,10 @@
 - 🌱 I’m currently practising Data Science & Machine Learning modeling
 - 📫 How to reach me karthikpselvam13@gmail.com
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-- www.linkedin.com/in/karthikpselvam
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p
+www.linkedin.com/in/karthikpselvam
 
 
 <p align="center">
