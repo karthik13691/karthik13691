@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthik
-- 👀 I’m a Machine Learning Cloud Engineer(Big Data) at AWS 
+- 👀 I’m a Machine Learning Cloud Engineer(Big Data) at AWS <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 - Ex-Criminal Data Analyst/Scientist at San Francisco Superior Court, San Francisco
 - Ex-Big Data Analyst at AT&T, Los Angeles
 
