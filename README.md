@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently practising Data Science & Machine Learning modeling
 - 📫 How to reach me karthikpselvam13@gmail.com
-- 📉 www.linkedin.com/in/karthikpselvam
+
+  file:///Users/kpselvam/Downloads/linkedin-horizontal.svg
+   www.linkedin.com/in/karthikpselvam
 
 
 <p align="center">
