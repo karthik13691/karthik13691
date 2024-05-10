@@ -3,7 +3,7 @@
 - Past Experiences:
   - Criminal Data Scientist/Analyst at San Francisco Superior Court, San Francisco
   - Big Data Analyst at AT&T, Los Angeles
-  - Data Analyst at Cal State Fullerton
+  - Data Analyst at California State University, Fullerton
 - 📫 How to reach me karthikpselvam13@gmail.com
 - 🎓 MS in Information Systems & Businses Analytics
 - 
