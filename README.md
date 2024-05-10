@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthik
 - <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> I’m a Gen AI & Machine Learning Cloud Engineer(Big Data) at Amazon Web Services
 - Past Experiences:
-  - Data Scientist/Analyst at San Francisco Superior Court, San Francisco
+  - Criminal Data Scientist/Analyst at San Francisco Superior Court, San Francisco
   - Big Data Analyst at AT&T, Los Angeles
   - Data Analyst at Cal State Fullerton
 - 📫 How to reach me karthikpselvam13@gmail.com
