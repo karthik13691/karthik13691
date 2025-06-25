@@ -5,7 +5,7 @@
 AWS Most Valuable Player Award  <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"/>  https://www.credly.com/badges/fc123f5c-de6d-4f99-b09f-b61fc11cf83d
 
 - 🏢 Work Experience:
-  - Software Developer (Gen AI/ML) @ Amazon Web Services (Current)
+  - Software Developer (Agentic AI) @ Amazon Web Services (Current)
   - Criminal Data Scientist @ San Francisco Superior Court, San Francisco
   - Big Data Analyst @ AT&T, Los Angeles
   - Data Analyst @ California State University, Fullerton
