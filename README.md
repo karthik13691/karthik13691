@@ -1,6 +1,6 @@
 👋 Hi, I’m Karthik
 
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> I'm a Software Developer at Amazon Web Services, specializing in Generative AI/Machine Learning on the Agentic AI team
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> I'm a Software Developer at Amazon Web Services, specialized in Gen AI/ML applications on the Agentic AI team
 
 AWS Most Valuable Player Award  <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"/>  https://www.credly.com/badges/fc123f5c-de6d-4f99-b09f-b61fc11cf83d
 
