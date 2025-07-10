@@ -22,8 +22,10 @@ AWS Most Valuable Player Award  <img src="https://img.shields.io/badge/Credly-FF
 - Certifications
   - <img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)" />
   
-    - Software Developer Professional 
+    - Software Developer Professional (Amazon)
+    - Python Core & Specialization (University of Michigan)
     - Java FullStack Developer
+    
 
   - <img src="https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#)" />
   
