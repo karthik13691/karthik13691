@@ -22,16 +22,16 @@ AWS Most Valuable Player Award  <img src="https://img.shields.io/badge/Credly-FF
 - Certifications
   - <img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)" />
   
-    - Amazon Software Developer (Professional)
-    - Python Core & Specialization (University of Michigan)
-    - Java FullStack Developer
+    - [Amazon Software Developer (Professional)](https://coursera.org/share/5419a861f2e4150043c5e0fce12d30a4)
+    - [Python](https://coursera.org/share/36fe37d86f58cfbbf07ca03f5496be9d) (University of Michigan)
+    - [Java Specialization](https://coursera.org/share/38dc6b05f65dbf2735de2d1ad0b1cb40)
     - Meta Front-End Developer Professional
     
 
   - <img src="https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#)" />
   
-    - Data Scientist
-    - Machine Learning with PyTorch
+    - [Data Scientist](https://www.udacity.com/certificate/NAPKNQ75)
+    - [Machine Learning with PyTorch](https://www.udacity.com/certificate/AHLKU4WM)
 
   - <img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)" />
   
